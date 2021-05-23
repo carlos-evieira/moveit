@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img alt="Move.it" title="Move.it" src="icons/moveit.svg " />
+    <img alt="Move.it" title="Move.it" src="public/moveit.svg"  width="600px"/>
 </h1>
 
 <p align="center">
-  <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -11,18 +11,18 @@
   <a href="#-license">License</a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=5965E0&labelColor=121214" alt="License">
   
   <img src="https://img.shields.io/github/forks/guilhermecapitao/nlw-04-reactjs-moveit?label=forks&message=MIT&color=5965E0&labelColor=121214" alt="Forks">     
 
   <img src="https://img.shields.io/github/stars/guilhermecapitao/nlw-04-reactjs-moveit?label=stars&message=MIT&color=5965E0&labelColor=121214" alt="Stars">
-</p>
+</p> -->
 
 <br>
 
 <p align="center">
-  <img alt="Moveit" src=".github/icon.svg" width="120px">
+  <img alt="Moveit" src="public/icon.svg" width="120px">
 </p>
 
 ## 🧪 Technologies
@@ -35,7 +35,7 @@ This project was developed using the following technologies:
 
 ## 🔥 Preview
 
-[![Deploy with Vercel](https://vercel.com/button)]
+[![Deploy with Vercel](https://vercel.com/button)](https://moveit-nextjs-carlos-evieira.vercel.app)
 
 ## 🚀 Getting started
 
@@ -75,4 +75,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) fi
 
 ---
 
-<p align="center">Made with 💜 by Kadu Vieira</p>
+<p align="center">Made by Kadu Vieira 😎</p>
